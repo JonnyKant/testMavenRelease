@@ -38,7 +38,7 @@
                         </executions>
                         <configuration>
                             <serverId>nexus-releases</serverId>
-                            <nexusUrl>http://192.168.0.106:8081</nexusUrl>
+                            <nexusUrl>http://192.168.0.106:8081/nexus</nexusUrl>
                             <skipStaging>true</skipStaging>
                         </configuration>
                     </plugin>
