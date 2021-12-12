@@ -57,6 +57,7 @@
                     <tagNameFormat>v@{project.version}</tagNameFormat>
                     <autoVersionSubmodules>true</autoVersionSubmodules>
                     <releaseProfiles>releases</releaseProfiles>
+                    <useReleaseProfile>false</useReleaseProfile>
                 </configuration>
             </plugin>
         </plugins>
