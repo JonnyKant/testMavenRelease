@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.example</groupId>
     <artifactId>testMavenRelease</artifactId>
-    <version>1.7-SNAPSHOT</version>
+    <version>1.7</version>
 
     <distributionManagement>
         <repository>
@@ -16,7 +16,7 @@
         <connection>scm:githttps://github.com/JonnyKant/testMavenRelease.git</connection>
         <url>https://github.com/JonnyKant/testMavenRelease</url>
         <developerConnection>scm:git:https://github.com/JonnyKant/testMavenRelease.git</developerConnection>
-        <tag>1.4tag</tag>
+        <tag>v1.7</tag>
     </scm>
 
     <profiles>
