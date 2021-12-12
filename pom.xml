@@ -15,7 +15,7 @@
         <connection>scm:githttps://github.com/JonnyKant/testMavenRelease.git</connection>
         <url>https://github.com/JonnyKant/testMavenRelease</url>
         <developerConnection>scm:git:https://github.com/JonnyKant/testMavenRelease.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>HEAD2</tag>
     </scm>
 
 
